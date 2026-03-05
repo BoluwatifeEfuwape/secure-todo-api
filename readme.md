@@ -28,13 +28,13 @@ todo-api/
 ├── todo_database_setup.py            # Database setup script
 ├── requirements.txt       # Python dependencies
 └── routes/
-    ├── __init__.py
-    ├── todos.py           # Todo endpoints
-    └── users.py           # Authentication endpoints
+├   ├── __init__.py
+├   ├── todos.py           # Todo endpoints
+├   └── users.py           # Authentication endpoints
 └── services/
-    ├── db_config_service.py           # Todo endpoints
-    ├── todo_service.py
-    └── user_service.py           
+├   ├── db_config_service.py           # Todo endpoints
+├    ├── todo_service.py
+├    └── user_service.py           
 ```
 
 ## Database Schema
