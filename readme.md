@@ -1,4 +1,4 @@
-# Todo List API
+# A Secured Todo API
 
 A RESTful API built with Flask and MySQL for managing personal todo lists with user authentication.
 
